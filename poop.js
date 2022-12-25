@@ -1,4 +1,4 @@
 const poop = (word) => {
 
-return `${word 💩}`
+return `${word} 💩`
 }
