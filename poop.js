@@ -7,5 +7,5 @@ poop('you are a', emoji);
 
 
 const hotStrumpet = true;
-const emojis = ['✅', '🍆', '💩',];
+const emojis = ['✅', '🍆', '💩'];
 
