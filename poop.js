@@ -8,6 +8,7 @@ poop('you are a', emoji);
 const emojis = {
  names: true,  
  icons: ['✅', '🍆', '💩', '😀'],
+ somePorp: 'info'
   
   
 };
