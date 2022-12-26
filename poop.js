@@ -5,7 +5,12 @@ return `${word} ${emoji} `
 
 poop('you are a', emoji);
 
-const emojis = ['✅', '🍆', '💩', '😀'];
+const emojis = {
+  
+ icons: ['✅', '🍆', '💩', '😀']
+  
+  
+};
 
 const hotStrumpet = true;
 
