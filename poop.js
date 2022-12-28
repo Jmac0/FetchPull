@@ -12,3 +12,9 @@ someProp: 'info'
   
   
 };
+
+const someFun = (array, item) => {
+ 
+ 
+ return array.push(item)
+}
